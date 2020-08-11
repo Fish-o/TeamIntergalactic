@@ -1,5 +1,5 @@
 html, body {
-  height: 100%;
+  height: initial;
   width: 100%;
 }
 
@@ -171,5 +171,11 @@ html, body {
     margin-top: 0;
     bottom: 25px;
   }
+}
+
+.page-footer.down {
+  width: inherit;
+  position: fixed;
+  bottom: 0;
 }
 
