@@ -1,0 +1,77 @@
+----------
+
+Tue Aug 11 2020 18:56:29 GMT+0200 (Central European Summer Time)
+
+warning: LF will be replaced by CRLF in about-us.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Tue Aug 11 2020 18:56:29 GMT+0200 (Central European Summer Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/css/bootstrap.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/bootstrap/js/bootstrap.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/css/smoothproducts.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Tue Aug 11 2020 18:56:29 GMT+0200 (Central European Summer Time)
+
+warning: LF will be replaced by CRLF in assets/fonts/Simple-Line-Icons.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Tue Aug 11 2020 18:56:29 GMT+0200 (Central European Summer Time)
+
+warning: LF will be replaced by CRLF in assets/js/jquery.min.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Tue Aug 11 2020 18:56:29 GMT+0200 (Central European Summer Time)
+
+warning: LF will be replaced by CRLF in assets/js/theme.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in contact-us.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in features.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Tue Aug 11 2020 18:56:29 GMT+0200 (Central European Summer Time)
+
+warning: LF will be replaced by CRLF in pricing.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Tue Aug 11 2020 18:56:31 GMT+0200 (Central European Summer Time)
+
+To https://github.com/Fish-o/Fish-o.github.io.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Fish-o/Fish-o.github.io.git'
+
+
+----------
+
+Tue Aug 11 2020 18:56:31 GMT+0200 (Central European Summer Time)
+
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
